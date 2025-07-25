@@ -1,5 +1,9 @@
 package com.autobots.BankApp;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.UUID;
+
 public class Client {
     private final String fullName;
     private final String clientID;
